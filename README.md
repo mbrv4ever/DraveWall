@@ -2,6 +2,12 @@
 
 Voorkant voor de Windows-firewall.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveWall](https://dravenlock.nl/video/DraveWall.jpg)](https://dravenlock.nl/video/DraveWall.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveWall.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Media en creatief · versie 0.2.4*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
